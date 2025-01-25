@@ -109,15 +109,15 @@ Load Memory:
 
 Command                           Functionality
 
-"What time is it?"                Fetches and speaks the current time.
+"What time is it?"          -->      Fetches and speaks the current time.
 
-"What is today's date?"           Fetches and speaks the current date.
+"What is today's date?"     -->      Fetches and speaks the current date.
 
-"Set a timer for X seconds."      Sets a countdown timer.
+"Set a timer for X seconds."   -->   Sets a countdown timer.
 
-"Remember X is Y."                Saves key-value pairs in memory.
+"Remember X is Y."         -->       Saves key-value pairs in memory.
 
-"What is X?"                      Recalls stored information from memory.
+"What is X?"               -->       Recalls stored information from memory.
 
 Other Queries                     Generates a response using GPT-4.
 
