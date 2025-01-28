@@ -1,4 +1,4 @@
-# Sonny-Voice
+# Sonny-Voice on Windows
 
 This script implements a voice assistant that integrates OpenAI's GPT-4, text-to-speech (TTS), speech recognition, and memory functionality. Below are the key features and steps to understand the functionality of the script.
 
